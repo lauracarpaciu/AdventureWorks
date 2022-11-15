@@ -1,0 +1,5 @@
+CREATE PROCEDURE SelectDimProduct
+AS
+SELECT * FROM DimProduct
+GO
+
