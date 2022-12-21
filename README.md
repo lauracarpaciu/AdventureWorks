@@ -14,6 +14,9 @@ SQL SERVER
 
 
 Power BI
-•	Data modeling
+
+•	Data modeling/Model
+
 •	Power Query
-•	Visualisations
+
+•	Visualisations/Report
